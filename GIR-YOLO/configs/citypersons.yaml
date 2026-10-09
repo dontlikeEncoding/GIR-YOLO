@@ -1,0 +1,6 @@
+path: /path/to/CityPersons_VOC
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: person
